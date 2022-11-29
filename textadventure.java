@@ -1,9 +1,7 @@
-package textadventure
-
 import java.util.Scanner;
 import java.util.Random;
 
-public class test {
+public class textadventure {
 	int gld = 5;
 	String name = "";
 	Scanner sc = new Scanner(System.in);
@@ -11,7 +9,7 @@ public class test {
 	Random r = new Random();
 	
 	public static void main(String[] args) {
-		test jus = new test();
+		textadventure jus = new textadventure();
 		jus.doStuff();
 	}
 	
