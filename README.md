@@ -1,2 +1,2 @@
 # textadventure
-Bitte ignorieren
+Nicht wichtig
